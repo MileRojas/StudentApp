@@ -1,0 +1,17 @@
+{
+    "students": [
+        {
+            "id":1,
+            "name":"test",
+            "lastname":"lastname test",
+            "email": "email.com"
+        }
+
+    ],
+    "courses": [
+
+    ],
+    "studentCourses":[
+
+    ]
+}
